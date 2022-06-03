@@ -8,7 +8,7 @@ body, html{
     line-height: 1.8em;
 }
 
-.pimg1, .pimg2, .pimg3, .pimg4{
+.pimg1, .pimg2{
     position: relative;
     opacity: .9;
     background-position: center;
@@ -41,17 +41,9 @@ body, html{
     background-image: url('./img/img1.jpeg');
     min-height: calc(100vh + 60px);
 }
+
 .pimg2{
     background-image: url('./img/img2.jpeg');
-
-}
-.pimg3{
-    background-image: url('./img/img5.jpeg');
-
-}
-
-.pimg4{
-    background-image: url('./img/img1.jpeg');
 }
 
 .border{
